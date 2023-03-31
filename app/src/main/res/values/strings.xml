@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SDSAgent</string>
+    <string name="noti_desc">SDSAgent Service is running</string>
+
+    <string name="channel_name">SDSAgent</string>
+    <string name="channel_desc">SDSAgent</string>
+    <string name="channel_id">SDSAgent_ID</string>
+</resources>
